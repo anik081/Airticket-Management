@@ -1,0 +1,7 @@
+One can register himself in the application and login. 
+If one forgets the password he/she can change the password.
+After successfully logging in, one can view his profile,Edit profile,see the tickets that he/she booked,
+delete the profile.
+One can book ticket by choosing seats.
+
+
